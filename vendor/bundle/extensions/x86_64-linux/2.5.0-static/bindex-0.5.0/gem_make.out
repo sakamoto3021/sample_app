@@ -1,0 +1,15 @@
+current directory: /home/vagrant/Rails/sample_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/home/vagrant/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20190105-29076-tzig5l.rb extconf.rb
+creating Makefile
+
+current directory: /home/vagrant/Rails/sample_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/vagrant/Rails/sample_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/vagrant/Rails/sample_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20190105-29076-zibxnd/bindex
